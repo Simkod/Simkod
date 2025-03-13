@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Simko Daniel
-- 👀 Let's democratise the digital world while keeping privacy
-- 🌱 4 Years of software engineering (Solidity, C++, Python)
+- 👀 Let's democratise the digital world while preserving privacy
+- 🌱 6 Years of software engineering (Solidity, C++, Python, JavaScript)
 - 💞️ Hit me up to collaborate on Blockchain or web3 projects
 - HOPR network node runner
 - Zürich, Switzerland
